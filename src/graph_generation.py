@@ -43,7 +43,6 @@ overall_avg_insomnia = data["Insomnia"].mean()
 overall_avg_ocd = data["OCD"].mean()
 
 # Iterate through mhBarGraph (which contains average scores per genre) to calculate compound scores
-# Assuming mhBarGraph from cell tLlkIxT3lb40 has columns like "Average Anxiety"
 for index, row in mhBarGraph.iterrows():
     genre = row["Genre"]
     compound_anxiety = row["Average Anxiety"] - overall_avg_anxiety
