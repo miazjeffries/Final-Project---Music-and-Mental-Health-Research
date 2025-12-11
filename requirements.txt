@@ -1,0 +1,6 @@
+kagglehub
+pandas
+numpy
+statsmodels
+matplotlib
+vaderSentiment

@@ -1,0 +1,13 @@
+Genre,Average Sentiment,Sentiment Label
+Blues,0.37105801886792456,Overall Blues Sentiment: Positive
+Classical,0.3353989795918367,Overall Classical Sentiment: Positive
+Country,0.4993536334913112,Overall Country Sentiment: Positive
+Electronic,0.1281494757174393,Overall Electronic Sentiment: Neutral
+Folk,0.33581034226190476,Overall Folk Sentiment: Positive
+Jazz,0.4330972972972973,Overall Jazz Sentiment: Positive
+Pop_Rock,0.057041426810928234,Overall Pop_Rock Sentiment: Neutral
+Rap,-0.2717232848232848,Overall Rap Sentiment: Weakly Negative
+Reggae,0.22813063646170442,Overall Reggae Sentiment: Weakly Positive
+Religious,0.46948514710082834,Overall Religious Sentiment: Positive
+RnB,0.4963929195990617,Overall RnB Sentiment: Positive
+Vocal,0.45998082832331333,Overall Vocal Sentiment: Positive
