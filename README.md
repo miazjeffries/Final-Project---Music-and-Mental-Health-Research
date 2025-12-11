@@ -8,6 +8,10 @@ PURPOSE OF PROJECT:
 VERSION or DATE:
     December 10, 2025
 
+DATA:
+The dataset file 'mxm_dataset.db' required to run 'lyric_processing.py' is too large to upload to directly to GitHub. 
+To obtain, download the SQLite database here: http://millionsongdataset.com/musixmatch/
+
 USER INSTRUCTIONS:
     1. Clone the repository to your local machine
     2. Install required libraries using 'pip install -r requirements.txt'
@@ -16,11 +20,11 @@ USER INSTRUCTIONS:
     5. To process lyric data into genre categories, run ‘lyric_processing.py’
     6. To run lyric sentiment analysis using VADER, run ‘sentiment_analysis.py’
     7. To generate graphs for survey and sentiment analysis data, run ‘graph_generation.py’
-    8. All data, figures, and results are saved to their respective directories. 
+    8. All data, figures, and results are saved to their respective directories.
 
 AUTHORS:
-    Mia Jeffries
-    Max Sindel-Dempcy
+    Mia Jeffries, 
+    Max Sindel-Dempcy, 
     Marvin Romero
 
 NOTES:
